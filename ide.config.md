@@ -94,7 +94,7 @@
   }
   ```
   #### vscode 插件
-  1. Bracket Pair Colorizer 【指示箭头】
+  1. Bracket Pair Colorizer【指示箭头】
   2. Chinese (Simplified) Language Pack for Visual Studio Code
   3. Color Highlight 【颜色高亮】
   4. Dart 【Flutter 开发需要】
